@@ -16,7 +16,7 @@
 ## [Code 102]()
 
 ## [Code 201]()
-- [_Class 101 Reading Notes._]() 
+- [_Class 101 Reading Notes._](https://garhettm.github.io/GarhettM-reading-notes/class-01) 
 
 ## [Code 301]()
 
