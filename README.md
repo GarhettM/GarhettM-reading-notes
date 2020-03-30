@@ -16,6 +16,7 @@
 ## [Code 102]()
 
 ## [Code 201]()
+- [_Class 101 Reading Notes._]() 
 
 ## [Code 301]()
 
