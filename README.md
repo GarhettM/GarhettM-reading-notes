@@ -2,14 +2,14 @@
 
 # Reading Notes
 
-<p>
-This is the Notes Journal for 201 
-</p>
+
+**This is the Notes Journal for 201** 
+
 
 >You miss 100% of the shots that you don't take. -Wayne Gretzky
 
 
-* _Michael Scott_
+- _Michael Scott_
   
 
 
